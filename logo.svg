@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img">
+  <title>Synapse Up logo</title>
+  <rect width="512" height="512" rx="115" fill="#1D9E75"/>
+  <circle cx="122" cy="243" r="83" fill="#FFFFFF"/>
+  <circle cx="390" cy="243" r="83" fill="#FFFFFF"/>
+  <polygon points="256,179 288,237 262,237 282,307 224,243 250,243" fill="#FAC775"/>
+  <path d="M198 416 L256 365 L314 416" stroke="#FFFFFF" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
